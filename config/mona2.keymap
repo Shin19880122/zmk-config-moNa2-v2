@@ -123,8 +123,8 @@
 
         layer_2 {
             bindings = <
-&kp EXCLAMATION  &kp AT_SIGN  &kp POUND          &kp DOLLAR  &kp PERCENT                                     &kp CARET              &kp AMPERSAND  &kp ASTERISK  &kp F11    &kp F12
-&kp GRAVE        &kp TILDE    &kp DOUBLE_QUOTES  &kp SQT     &trans                    &kp UNDER             &kp EXCLAMATION        &kp AT_SIGN    &kp HASH      &kp EQUAL  &kp PAGE_UP
+&kp EXCLAMATION  &kp AT_SIGN  &kp POUND          &kp DOLLAR  &kp PERCENT                                     &kp CARET              &kp AMPERSAND  &kp MINUS     &kp F11    &kp F12
+&kp GRAVE        &kp TILDE    &kp DOUBLE_QUOTES  &kp SQT     &trans                    &kp MINUS             &kp EXCLAMATION        &kp AT_SIGN    &kp HASH      &kp EQUAL  &kp PAGE_UP
 &trans           &trans       &trans             &trans      &trans       &kp UNDER    &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp QUESTION   &kp QUESTION  &mo 4      &kp PAGE_DOWN
 &trans           &trans       &trans             &trans      &trans       &trans       &trans                &trans                                                         &trans
             >;
