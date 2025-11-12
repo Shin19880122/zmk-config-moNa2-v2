@@ -68,6 +68,9 @@
     status = "okay";
     device = <&trackball_central>;
 
+// AML（10秒レイヤー5）
+    input-processors = <&zip_temp_layer 5 10000>;
+
     scroller {
         layers = <3>;
         input-processors = 
